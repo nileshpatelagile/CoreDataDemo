@@ -14,6 +14,8 @@
 		291CC74B2061305E00B89D32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 291CC74A2061305E00B89D32 /* Assets.xcassets */; };
 		291CC74E2061305E00B89D32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291CC74C2061305E00B89D32 /* LaunchScreen.storyboard */; };
 		291CC756206135A700B89D32 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 291CC755206135A700B89D32 /* 1.jpeg */; };
+		295962EB206223CE00026228 /* ViewControllerOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 295962EA206223CE00026228 /* ViewControllerOne.swift */; };
+		295962ED2062250C00026228 /* TableViewControllerOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 295962EC2062250C00026228 /* TableViewControllerOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		291CC74D2061305E00B89D32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		291CC74F2061305E00B89D32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		291CC755206135A700B89D32 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		295962EA206223CE00026228 /* ViewControllerOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerOne.swift; sourceTree = "<group>"; };
+		295962EC2062250C00026228 /* TableViewControllerOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				291CC755206135A700B89D32 /* 1.jpeg */,
 				291CC7402061305E00B89D32 /* AppDelegate.swift */,
 				291CC7422061305E00B89D32 /* ViewController.swift */,
+				295962EA206223CE00026228 /* ViewControllerOne.swift */,
+				295962EC2062250C00026228 /* TableViewControllerOne.swift */,
 				291CC7442061305E00B89D32 /* Main.storyboard */,
 				291CC74A2061305E00B89D32 /* Assets.xcassets */,
 				291CC74C2061305E00B89D32 /* LaunchScreen.storyboard */,
@@ -146,6 +152,8 @@
 				291CC7432061305E00B89D32 /* ViewController.swift in Sources */,
 				291CC7492061305E00B89D32 /* CoreDataDemo.xcdatamodeld in Sources */,
 				291CC7412061305E00B89D32 /* AppDelegate.swift in Sources */,
+				295962EB206223CE00026228 /* ViewControllerOne.swift in Sources */,
+				295962ED2062250C00026228 /* TableViewControllerOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
